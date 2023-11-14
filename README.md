@@ -14,5 +14,5 @@ George - TA
 
 ## Links
 Github: https://github.com/Ali-Aldawoodi/Browser-text-editor
-Deployed: 
+Deployed: https://browser-text-editor99-1500ecf83ac7.herokuapp.com/
 
